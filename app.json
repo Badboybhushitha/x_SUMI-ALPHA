@@ -2,7 +2,7 @@
   "name": "Tom-Bot",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/nexusNw/Gojo-Satoru",
-  "logo": "https://telegra.ph/file/4c2c0174e86ac3bac2ba8.jpg",
+  "logo": "https://user-images.githubusercontent.com/103347448/183249421-8c1c4662-956e-4614-8f0e-ac94916d4e6c.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
