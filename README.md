@@ -1,6 +1,6 @@
 # TOM-BOT
 <p align="center">
-<img src="https://user-images.githubusercontent.com/103347448/183249421-8c1c4662-956e-4614-8f0e-ac94916d4e6c.jpg" alt="nz" width="350"/>
+<img src="https://ibb.co/ZHfJrwc" alt="nz" width="350"/>
 </p>
 
 ## TOM BOT
