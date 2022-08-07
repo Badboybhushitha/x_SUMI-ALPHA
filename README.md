@@ -1,6 +1,6 @@
 # TOM-BOT
 <p align="center">
-<img src="https://ibb.co/ZHfJrwc/LOGO.jpg" alt="nz" width="350"/>
+<a href="https://ibb.co/ZHfJrwc"><img src="https://i.ibb.co/3fTsb8S/nexus.png" alt="nexus" border="0"></a>
 </p>
 
 ## TOM BOT
