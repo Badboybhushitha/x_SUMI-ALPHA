@@ -1,8 +1,7 @@
 <p align="center">
-<img src="https://telegra.ph/file/f3b2f9e862e1352d4fd94.jpg" alt="nz" width="350"/>
-</p>
+<a href="https://ibb.co/P1fSYKz"><img src="https://i.ibb.co/HGkJ26p/cheemspic.png" alt="cheemspic" border="0"></a>
 
-## Gojo-Satoru
+## X__SUMI-ALPHA
 
 > <a href="https://youtu.be/W-QCp2fWRTo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
