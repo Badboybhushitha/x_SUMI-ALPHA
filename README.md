@@ -1,4 +1,4 @@
-# X__SUMI-APHA
+# X__SUMI-ALPHA
 <p align="center">
 <a href="https://ibb.co/P1fSYKz"><img src="https://i.ibb.co/HGkJ26p/cheemspic.png" alt="cheemspic" border="0"></a>
 
