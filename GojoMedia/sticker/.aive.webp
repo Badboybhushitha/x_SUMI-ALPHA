@@ -1,0 +1,549 @@
+??? *${botname}* ???? 
+?+--??? MAIN ???
+?¦ ${prefix}alive
+?¦ ${prefix}script
+?¦ ${prefix}speedtest
+?¦ ${prefix}ping
+?¦ ${prefix}owner
+?¦ ${prefix}menu
+?¦ ${prefix}delete
+?¦ ${prefix}chatinfo
+?¦ ${prefix}quoted
+?¦ ${prefix}listpc
+?¦ ${prefix}listgc
+?¦ ${prefix}donate
+?¦ ${prefix}report [bug]
+
+?¦--?? OWNER ? ??
+?¦ ${prefix}chat [option]
+?¦ ${prefix}join [link]
+?¦ ${prefix}leave
+?¦ ${prefix}block [user]
+?¦ ${prefix}unblock [user]
+?¦ ${prefix}bcgroup [text]
+?¦ ${prefix}bcall [text]
+?¦ ${prefix}setppbot [image]
+?¦ ${prefix}setexif
+?¦--?? GROUP ? ??     
+ 
+?¦${prefix}grouplink
+?¦${prefix}ephemeral [option]
+?¦${prefix}setgcpp [image]
+?¦${prefix}setname [text]
+?¦${prefix}setdesc [text]
+?¦${prefix}group [text]
+?¦${prefix}editinfo [option]
+?¦${prefix}add [user]
+?¦${prefix}kick [reply/tag]
+?¦${prefix}hidetag [text]
+?¦${prefix}tagall [text]
+?¦${prefix}antilink [on/off]
+?¦${prefix}mute [on/off]
+?¦${prefix}promote [reply/tag]
+?¦${prefix}demote [reply/tag]
+?¦${prefix}vote
+?¦${prefix}devote
+?¦${prefix}upvote
+?¦${prefix}checkvote
+?¦${prefix}delvote
+?¦--??? RPG ? ??
+?¦${prefix}hunting
+?¦${prefix}mining
+?¦${prefix}heal
+?¦${prefix}userlimit
+?¦${prefix}profile
+?¦${prefix}inventory
+?¦${prefix}leaderboard
+?¦${prefix}buy [option]
+?¦${prefix}sell [option]
+?¦-?? DOWNLOADER ???
+?¦${prefix}ytmp3 [url|quality]
+?¦${prefix}ytmp4 [url|quality]
+?¦${prefix}getmusic [yt link]
+?¦${prefix}getvideo [yt link]
+?¦${prefix}umma [query]
+?¦${prefix}joox [query]
+?¦${prefix}soundcloud [url]
+?¦--?? SEARCHER ? ??
+?¦${prefix}play [query]
+?¦${prefix}song [query]
+?¦${prefix}yts [query]
+?¦${prefix}google [query]
+?¦${prefix}gimage [query]
+?¦${prefix}pinterest [query]
+?¦${prefix}wallpaper [query]
+?¦${prefix}wikimedia [query]
+?¦${prefix}ytsearch [query]
+?¦${prefix}ringtone [query]
+?¦${prefix}webtoon [query]
+?¦--?? RANDOM ???
+
+?¦${prefix}coffee
+?¦${prefix}animequote (indo)
+?¦${prefix}couplepp
+?¦-?? RANDOM ANIME ???
+
+?¦${prefix}loli
+?¦${prefix}bully
+?¦${prefix}cuddle
+?¦${prefix}cry
+?¦${prefix}hug
+?¦${prefix}awoo
+?¦${prefix}kiss
+?¦${prefix}lick
+?¦${prefix}pat
+?¦${prefix}smug
+?¦${prefix}bonk
+?¦${prefix}yeet
+?¦${prefix}blush
+?¦${prefix}smile
+?¦${prefix}wave
+?¦${prefix}highfive
+?¦${prefix}handhold
+?¦${prefix}nom
+?¦${prefix}glomp
+?¦${prefix}bite
+?¦${prefix}slap
+?¦${prefix}kill
+?¦${prefix}happy
+?¦${prefix}wink
+?¦${prefix}poke
+?¦${prefix}dance
+?¦${prefix}cringe
+?¦--?? FUN ? ??
+?¦ ${prefix}how [text
+?¦ ${prefix}when [text]
+?¦ ${prefix}is [text]
+?¦ ${prefix}what [text]
+?¦ ${prefix}can [text]
+?¦ ${prefix}rate [text]
+?¦ ${prefix}wangy [text]
+?¦ ${prefix}beautifulcheck [tag]
+?¦ ${prefix}awesomecheck [tag]
+?¦ ${prefix}prettycheck [tag]
+?¦ ${prefix}lesbiancheck [tag]
+?¦ ${prefix}gaycheck [tag]
+?¦ ${prefix}cutecheck [tag]
+?¦ ${prefix}uglycheck [tag]
+?¦ ${prefix}hornycheck [tag]
+?¦ ${prefix}charactercheck [tag]
+?¦ ${prefix}lovelycheck [tag]
+?¦ ${prefix}couple
+?¦ ${prefix}mysoulmate
+?¦ ${prefix}hot
+?¦ ${prefix}sexy
+?¦ ${prefix}kind
+?¦ ${prefix}idiot
+?¦ ${prefix}handsome
+?¦ ${prefix}beautiful
+?¦ ${prefix}cute
+?¦ ${prefix}pretty
+?¦ ${prefix}lesbian
+?¦ ${prefix}noob
+?¦ ${prefix}bastard
+?¦ ${prefix}foolish
+?¦ ${prefix}nerd
+?¦ ${prefix}asshole
+?¦ ${prefix}gay
+?¦ ${prefix}smart
+?¦ ${prefix}stubble
+?¦ ${prefix}dog
+?¦ ${prefix}horny
+?¦ ${prefix}cunt
+?¦ ${prefix}wibu
+?¦ ${prefix}tictactoe
+?¦ ${prefix}delttt
+?¦ ${prefix}guess [option]
+?¦ ${prefix}math [mode]
+?¦ ${prefix}suitpvp [tag]
+?¦---?? CONVERTER ? ??
+?¦ ${prefix}toimage [reply stick]
+?¦ ${prefix}sticker [reply img|gif]
+?¦ ${prefix}emojimix [moji+moji]
+?¦ ${prefix}tovideo [reply img]
+?¦ ${prefix}togif [reply stick]
+?¦ ${prefix}tourl [reply img]
+?¦ ${prefix}tovn [reply aud]
+?¦ ${prefix}tomp3 [reply vn]
+?¦ ${prefix}toaudio [reply vid]
+?¦ ${prefix}ebinary [reply txt]
+?¦ ${prefix}dbinary [reply txt]
+?¦ ${prefix}styletext [text]
+?¦--?? DATABASE ? ??
+
+?¦ ${prefix}setcmd
+?¦ ${prefix}listcmd
+?¦ ${prefix}delcmd
+?¦ ${prefix}lockcmd
+?¦ ${prefix}addmsg
+?¦ ${prefix}listmsg
+?¦ ${prefix}getmsg
+?¦ ${prefix}delmsg
+?¦-?? ANONYMOUS CHAT ???
+
+?¦${prefix}anonymous
+?¦${prefix}start
+?¦${prefix}next
+?¦${prefix}leave
+?¦-?? VOICE CHANGER ???
+
+?¦${prefix}bass [reply aud]
+?¦${prefix}blown [reply aud]
+?¦${prefix}deep [reply aud]
+?¦${prefix}earrape [reply aud]
+?¦${prefix}fast [reply aud]
+?¦${prefix}fat [reply aud]
+?¦${prefix}nightcore [reply aud]
+?¦${prefix}reverse [reply aud]
+?¦${prefix}robot [reply aud]
+?¦${prefix}slow [reply aud]
+?¦${prefix}squirrel [reply aud]
+?¦--?? ISLAMIC ???
+
+?¦${prefix}juzamma
+?¦--?? HOROSCOPE ???
+
+?¦${prefix}nomorhoki (indo)
+?¦${prefix}artimimpi (indo)
+?¦${prefix}artinama (indo)
+?¦${prefix}ramaljodoh (indo)
+?¦${prefix}ramaljodohbali (indo)
+?¦${prefix}suamiistri (indo)
+?¦${prefix}ramalcinta (indo)
+?¦${prefix}cocoknama (indo)
+?¦${prefix}pasangan (indo)
+?¦${prefix}jadiannikah (indo)
+?¦${prefix}sifatusaha (indo)
+?¦${prefix}rezeki (indo)
+?¦${prefix}pekerjaan (indo)
+?¦${prefix}nasib (indo)
+?¦${prefix}penyakit (indo)
+?¦${prefix}tarot (indo)
+?¦${prefix}fengshui (indo)
+?¦${prefix}haribaik (indo)
+?¦${prefix}harisangar (indo)
+?¦${prefix}harisial (indo)
+?¦${prefix}nagahari (indo)
+?¦${prefix}arahrezeki (indo)
+?¦${prefix}peruntungan (indo)
+?¦${prefix}weton (indo)
+?¦${prefix}karakter (indo)
+?¦${prefix}keberuntungan (indo)
+?¦${prefix}memancing (indo)
+?¦${prefix}masasubur (indo)
+?¦${prefix}zodiak (indo)
+?¦${prefix}shio (indo)
+?+-------????????????????
+
+
+??? ${botname} ???? 
+?+-?? MAIN ?
+?¦ ${prefix}alive
+?¦ ${prefix}script
+?¦ ${prefix}speedtest
+?¦ ${prefix}ping
+?¦ ${prefix}owner
+?¦ ${prefix}menu
+?¦ ${prefix}delete
+?¦ ${prefix}chatinfo
+?¦ ${prefix}quoted
+?¦ ${prefix}listpc
+?¦ ${prefix}listgc
+?¦ ${prefix}donate
+?¦ ${prefix}report [bug]
+?+-------------?
+
+??? ${botname} ???? 
+?+-?? GROUP ?	        
+?¦${prefix}grouplink
+?¦${prefix}ephemeral [option]
+?¦${prefix}setgcpp [image]
+?¦${prefix}setname [text]
+?¦${prefix}setdesc [text]
+?¦${prefix}group [text]
+?¦${prefix}editinfo [option]
+?¦${prefix}add [user]
+?¦${prefix}kick [reply/tag]
+?¦${prefix}hidetag [text]
+?¦${prefix}tagall [text]
+?¦${prefix}antilink [on/off]
+?¦${prefix}mute [on/off]
+?¦${prefix}promote [reply/tag]
+?¦${prefix}demote [reply/tag]
+?¦${prefix}vote
+?¦${prefix}devote
+?¦${prefix}upvote
+?¦${prefix}checkvote
+?¦${prefix}delvote
+?+-------------?
+
+?+-?? RPG ?	        
+?¦${prefix}hunting
+?¦${prefix}mining
+?¦${prefix}heal
+?¦${prefix}limituser
+?¦${prefix}profile
+?¦${prefix}inventory
+?¦${prefix}leaderboard
+?¦${prefix}buy [option]
+?¦${prefix}sell [option]
+?+-------------?
+
+?+-?? FUN ?	        
+?¦ ${prefix}how [text
+?¦ ${prefix}when [text]
+?¦ ${prefix}is [text]
+?¦ ${prefix}what [text]
+?¦ ${prefix}can [text]
+?¦ ${prefix}rate [text]
+?¦ ${prefix}wangy [text]
+?¦ ${prefix}beautifulcheck [tag]
+?¦ ${prefix}awesomecheck [tag]
+?¦ ${prefix}prettycheck [tag]
+?¦ ${prefix}lesbiancheck [tag]
+?¦ ${prefix}gaycheck [tag]
+?¦ ${prefix}cutecheck [tag]
+?¦ ${prefix}uglycheck [tag]
+?¦ ${prefix}hornycheck [tag]
+?¦ ${prefix}charactercheck [tag]
+?¦ ${prefix}lovelycheck [tag]
+?¦ ${prefix}couple
+?¦ ${prefix}mysoulmate
+?¦ ${prefix}hot
+?¦ ${prefix}sexy
+?¦ ${prefix}kind
+?¦ ${prefix}handsome
+?¦ ${prefix}beautiful
+?¦ ${prefix}cute
+?¦ ${prefix}pretty
+?¦ ${prefix}lesbian
+?¦ ${prefix}noob
+?¦ ${prefix}bastard
+?¦ ${prefix}foolish
+?¦ ${prefix}nerd
+?¦ ${prefix}asshole
+?¦ ${prefix}gay
+?¦ ${prefix}smart
+?¦ ${prefix}stubble
+?¦ ${prefix}dog
+?¦ ${prefix}horny
+?¦ ${prefix}cunt
+?¦ ${prefix}wibu
+?¦ ${prefix}tictactoe
+?¦ ${prefix}delttt
+?¦ ${prefix}guess [option]
+?¦ ${prefix}math [mode]
+?¦ ${prefix}suitpvp [tag]
+?+-------------?
+
+
+?+-?? OWNER ?	        
+?¦grouplink
+?¦ephemeral [option]
+?¦setgcpp [image]
+?¦setname [text]
+?¦setdesc [text]
+?¦group [text]
+?¦editinfo [option]
+?¦add [user]
+?¦kick [reply/tag]
+?¦hidetag [text]
+?¦tagall [text]
+?¦antilink [on/off]
+?¦mute [on/off]
+?¦promote [reply/tag]
+?¦demote [reply/tag]
+?¦vote
+?¦devote
+?¦upvote
+?¦checkvote
+?¦delvote
+?+-------------?
+
+
+?+-?? DOWNLOADER ?	        
+?¦ytmp3 [url|quality]
+?¦ytmp4 [url|quality]
+?¦getmusic [yt link]
+?¦getvideo [yt link]
+?¦umma [query]
+?¦joox [query]
+?¦soundcloud [url]
+?+-------------?
+
+
+?+--?? SEARCHER ?	        
+?¦play [query]
+?¦song [query]
+?¦yts [query]
+?¦google [query]
+?¦gimage [query]
+?¦pinterest [query]
+?¦wallpaper [query]
+?¦wikimedia [query]
+?¦ytsearch [query]
+?¦ringtone [query]
+?¦webtoon [query]
+?+-------------?
+
+??? ${botname} ???? 
+?+--?? RANDOM ?	        
+?¦${prefix}coffee
+?¦${prefix}animequote (indo)
+?¦${prefix}couplepp
+?+-------------?
+
+
+?+?? RANDOM ANIME ?	        
+?¦loli
+?¦bully
+?¦cuddle
+?¦cry
+?¦hug
+?¦awoo
+?¦kiss
+?¦lick
+?¦pat
+?¦smug
+?¦bonk
+?¦yeet
+?¦blush
+?¦smile
+?¦wave
+?¦highfive
+?¦handhold
+?¦nom
+?¦glomp
+?¦bite
+?¦slap
+?¦kill
+?¦happy
+?¦wink
+?¦poke
+?¦dance
+?¦cringe
+?+-------------?
+
+??? ???? 
+?+-?? TEXT PRO ?	        
+?¦ 3dchristmas [txt]
+?¦ 3ddeepsea [txt]
+?¦ americanflag [txt]
+?¦ 3dscifi [txt]
+?¦ 3drainbow [txt]
+?¦ 3dwaterpipe [txt]
+?¦ halloweenskeleton [txt]
+?¦ sketch [txt]
+?¦ bluecircuit [txt]
+?¦ space [txt]
+?¦ metallic [txt]
+?¦ fiction [txt]
+?¦ greenhorror [txt]
+?¦ transformer [txt]
+?¦ berry [txt]
+?¦ thunder [txt]
+?¦ magma [txt]
+?¦ 3dcrackedstone [txt]
+?¦ 3dneonlight [txt]
+?¦ impressiveglitch [txt]
+?¦ naturalleaves [txt]
+?¦ fireworksparkle [txt]
+?¦ matrix [txt]
+?¦ dropwater [txt]
+?¦ harrypotter [txt]
+?¦ foggywindow [txt]
+?¦ neondevils [txt]
+?¦ christmasholiday [txt]
+?¦ 3dgradient [txt]
+?¦ blackpink [txt]
+?¦ gluetext [txt]
+?+-------------?
+
+??? ${botname} ???? 
+?+--?? CONVERTER ?	        
+?¦ toimage [reply stick]
+?¦ sticker [reply img|gif]
+?¦ emojimix [moji+moji]
+?¦ tovideo [reply img]
+?¦ togif [reply stick]
+?¦ tourl [reply media]
+?¦ tovn [reply aud]
+?¦ tomp3 [reply vn]
+?¦ toaudio [reply vid]
+?¦ ebinary [reply txt]
+?¦ dbinary [reply txt]
+?+-------------?
+
+
+?+---?? DATABASE ?	        
+?¦ setcmd
+?¦ listcmd
+?¦ delcmd
+?¦ lockcmd
+?¦ addmsg
+?¦ listmsg
+?¦ getmsg
+?¦ delmsg
+?+-------------?
+
+
+?+--?? ANONYMOUS CHAT ?	        
+?¦anonymous
+?¦start
+?¦next
+?¦leave
+?+-------------?
+
+
+?+--?? ISLAMIC ?	        
+?¦juzamma
+?+-------------?
+
+??? ${botname} ???? 
+?+--?? VOICE CHANGER ?	        
+?¦bass [reply aud]
+?¦blown [reply aud]
+?¦deep [reply aud]
+?¦earrape [reply aud]
+?¦fast [reply aud]
+?¦fat [reply aud]
+?¦nightcore [reply aud]
+?¦reverse [reply aud]
+?¦robot [reply aud]
+?¦slow [reply aud]
+?¦squirrel [reply aud]
+?+-------------?
+
+??? ${botname} ???? 
+?+--?? HOROSCOPE ?	        
+?¦nomorhoki (indo)
+?¦artimimpi (indo)
+?¦artinama (indo)
+?¦ramaljodoh (indo)
+?¦ramaljodohbali (indo)
+?¦suamiistri (indo)
+?¦ramalcinta (indo)
+?¦cocoknama (indo)
+?¦pasangan (indo)
+?¦jadiannikah (indo)
+?¦sifatusaha (indo)
+?¦rezeki (indo)
+?¦pekerjaan (indo)
+?¦nasib (indo)
+?¦penyakit (indo)
+?¦tarot (indo)
+?¦fengshui (indo)
+?¦haribaik (indo)
+?¦harisangar (indo)
+?¦harisial (indo)
+?¦nagahari (indo)
+?¦arahrezeki (indo)
+?¦peruntungan (indo)
+?¦weton (indo)
+?¦karakter (indo)
+?¦keberuntungan (indo)
+?¦memancing (indo)
+?¦masasubur (indo)
+?¦zodiak (indo)
+?¦shio (indo)
+?+-------------?
